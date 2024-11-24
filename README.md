@@ -14,3 +14,4 @@ New-ADUser -Name "username" -SamAccountName "samaccountname" -Path "OU=Users,DC=
 - [ ] Cambiar domain ` AD `
 - [ ] Server DHCP
 - [ ] Controlador de dominio de reserva o backup [link](https://classroom.google.com/u/4/c/NzExNTk0OTQzNjEx/a/NzI2NDM1MDEwMDMy/details)
+- [ ] trusted host
